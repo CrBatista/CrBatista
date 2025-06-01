@@ -45,4 +45,4 @@ If you’re building products that need to **scale fast and stay resilient**, pi
 
 ---
 
-<p align="center"><i>“Infrastructure should be as invisible as good typography.”</i></p>
+<p align="center"><i>“steady increasing commas”</i></p>
